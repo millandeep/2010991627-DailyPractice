@@ -1,0 +1,14 @@
+body {
+/*    background: url("aa.jpg");*/
+background: linear-gradient(to bottom, pink , rgba(204 , 229 , 255 , 0.4));
+    font-size: 1.15rem;
+    text-align: justify;
+}
+
+#myTitle {
+    color: black;
+}
+
+.h1Ele{
+    color: blue;
+}
